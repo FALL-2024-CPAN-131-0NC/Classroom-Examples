@@ -3,6 +3,7 @@ package org.humber.week4;
 
 public class Shape {
 
+    public static String DEFAULT_COLOR = "white";
     private String color;
 
     public Shape() {

@@ -1,6 +1,4 @@
-# Example Projects
-
-### Library Management System
+# Library Management System
 
 #### Task 1:
 

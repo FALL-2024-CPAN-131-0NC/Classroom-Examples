@@ -5,7 +5,7 @@ public class Circle extends Shape{
     private double radius;
 
     public Circle(double radius) {
-        super("red");
+        super(DEFAULT_COLOR);
         this.radius = radius;
     }
 

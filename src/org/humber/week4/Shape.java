@@ -7,7 +7,7 @@ public class Shape {
     private String color;
 
     public Shape() {
-        this.color = "white";
+        this.color = DEFAULT_COLOR;
     }
 
     public Shape(String color) {
